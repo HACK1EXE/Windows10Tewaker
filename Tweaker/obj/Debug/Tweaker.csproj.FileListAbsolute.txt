@@ -1,0 +1,10 @@
+I:\VS_Projects\win10Tweaker\Tweaker\bin\Debug\Tweaker.exe.config
+I:\VS_Projects\win10Tweaker\Tweaker\bin\Debug\Tweaker.exe
+I:\VS_Projects\win10Tweaker\Tweaker\bin\Debug\Tweaker.pdb
+I:\VS_Projects\win10Tweaker\Tweaker\obj\Debug\Tweaker.csproj.AssemblyReference.cache
+I:\VS_Projects\win10Tweaker\Tweaker\obj\Debug\Tweaker.Properties.Resources.resources
+I:\VS_Projects\win10Tweaker\Tweaker\obj\Debug\Tweaker.csproj.GenerateResource.cache
+I:\VS_Projects\win10Tweaker\Tweaker\obj\Debug\Tweaker.csproj.CoreCompileInputs.cache
+I:\VS_Projects\win10Tweaker\Tweaker\obj\Debug\Tweaker.exe
+I:\VS_Projects\win10Tweaker\Tweaker\obj\Debug\Tweaker.pdb
+I:\VS_Projects\win10Tweaker\Tweaker\obj\Debug\Tweaker.Form1.resources
